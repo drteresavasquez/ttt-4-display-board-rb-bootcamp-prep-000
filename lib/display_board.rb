@@ -4,7 +4,5 @@
 board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
 
 def display_board(arr)
-  arr.foreach(item){
-    
-  }
+  
 end
