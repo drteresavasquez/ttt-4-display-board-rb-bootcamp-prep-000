@@ -4,5 +4,6 @@
 board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
 
 def display_board(arr)
-  
+  pipe = "|"
+  puts "#{}"
 end
