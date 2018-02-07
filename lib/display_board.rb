@@ -3,3 +3,6 @@
 
 board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
 
+def display_board(arr)
+  
+end
